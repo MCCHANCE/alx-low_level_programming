@@ -2,14 +2,14 @@
 /**
  * main - Entry point
  *
- * Return: 0 (success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
 {
 	char c;
 
-	c = '0';
+	c = 'a';
 	while
 		(c <= 'z') {
 			putchar(c);
