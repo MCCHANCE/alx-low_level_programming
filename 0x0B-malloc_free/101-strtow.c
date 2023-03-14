@@ -14,12 +14,12 @@ int count_word(char *s)
 			flag = 0;
 				w = 0;
 
-					for (c = 0; s[c] != '\0'; c++);
-							{
-if (s[c] == ' ');
+					(c = 0); s[c] != '\0'; c++;
+{
+(s[c] == ' ');
 
-			 flag = 0;
-if (flag == 0);
+       	flag = 0;
+if (flag == 0)
 												{
 																flag = 1;
 																			w++;
